@@ -1,2 +1,5 @@
 ---
-  message: Hello how are you...
+spring:
+  profiles: cloud
+
+message: Hello how are you...
